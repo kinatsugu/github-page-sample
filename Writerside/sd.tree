@@ -2,13 +2,13 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi"
-                 name="Help Instance"
+<instance-profile id="sd"
+                 name="Sample Doc"
                  start-page="Overview.md">
 
-    <toc-element topic="How-to.md"/>
     <toc-element topic="Reference.md"/>
     <toc-element topic="Starter.md"/>
     <toc-element topic="Overview.md"/>
     <toc-element topic="Tutorial.md"/>
+    <toc-element topic="How-to.md"/>
 </instance-profile>
