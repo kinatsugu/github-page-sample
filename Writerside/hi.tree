@@ -6,9 +6,9 @@
                  name="Sample Doc"
                  start-page="Overview.md">
 
-    <toc-element topic="Reference.md"/>
-    <toc-element topic="Starter.md"/>
     <toc-element topic="Overview.md"/>
-    <toc-element topic="Tutorial.md"/>
+    <toc-element topic="Starter.md"/>
     <toc-element topic="How-to.md"/>
+    <toc-element topic="Tutorial.md"/>
+    <toc-element topic="Reference.md"/>
 </instance-profile>
